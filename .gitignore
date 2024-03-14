@@ -1,0 +1,23 @@
+# Ignorar archivos generados por Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignorar archivos de compilación
+/dist/
+/build/
+
+# Ignorar archivos de configuración de IDE
+.idea/
+.vscode/
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Ignorar archivos de caché
+.cache/
